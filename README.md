@@ -174,12 +174,10 @@ Check the actual project structure and dependencies before using this example co
 
 **GitHub Profile:** [KrishnaBalaSai](https://github.com/KrishnaBalaSai)
 
-**Portfolio:** [View Portfolio](https://krishnabalasai.github.io/portfolio/)
+**Portfolio:** [View Portfolio](https://krishnabalasai.github.io/Portfolio/)
 
 ## Conclusion
 
 The Service Recommendation System demonstrates how semantic retrieval, metadata filtering, personalization, and generative AI can be combined to build a more useful and explainable recommendation experience. The project explores the limitations of traditional recommendation approaches and evaluates a hybrid RAG-based architecture for discovering technical books and developer services.
 
 ---
-
-*Developed as part of a B.Tech final-year capstone project.*
