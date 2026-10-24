@@ -88,7 +88,6 @@ The project evaluates traditional machine learning approaches alongside a CNN-ba
 
 The reported experiments show that the RAG-based approach achieved stronger recommendation-ranking results than the evaluated baselines on the reported metrics.
 
-*Note: These are the results documented in the project report, not independently reproduced benchmark results.*
 
 ## Installation and Setup
 
